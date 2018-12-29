@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  uds_app_layer.cpp
+f:\project_workspace\江铃疲劳前装项目\bootloader references\uds network layer\uds_network_layer\uds_app_layer\uds_app_layer.h(204): error C3872: “0xa0”: 此字符不允许在标识符中使用
+f:\project_workspace\江铃疲劳前装项目\bootloader references\uds network layer\uds_network_layer\uds_app_layer\uds_app_layer.h(204): fatal error C1021: 无效的预处理器命令“define     ”

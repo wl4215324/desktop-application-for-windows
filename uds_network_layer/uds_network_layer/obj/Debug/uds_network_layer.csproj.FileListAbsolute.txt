@@ -1,0 +1,6 @@
+F:\project_workspace\江铃疲劳前装项目\bootloader references\uds network layer\uds_network_layer\uds_network_layer\bin\Debug\uds_network_layer.exe.config
+F:\project_workspace\江铃疲劳前装项目\bootloader references\uds network layer\uds_network_layer\uds_network_layer\bin\Debug\uds_network_layer.exe
+F:\project_workspace\江铃疲劳前装项目\bootloader references\uds network layer\uds_network_layer\uds_network_layer\bin\Debug\uds_network_layer.pdb
+F:\project_workspace\江铃疲劳前装项目\bootloader references\uds network layer\uds_network_layer\uds_network_layer\obj\Debug\uds_network_layer.csprojResolveAssemblyReference.cache
+F:\project_workspace\江铃疲劳前装项目\bootloader references\uds network layer\uds_network_layer\uds_network_layer\obj\Debug\uds_network_layer.exe
+F:\project_workspace\江铃疲劳前装项目\bootloader references\uds network layer\uds_network_layer\uds_network_layer\obj\Debug\uds_network_layer.pdb
